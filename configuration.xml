@@ -7,8 +7,6 @@
       <ExcludeApp ID="Outlook" />
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Teams" />
-      <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="SkypeforBusiness" />
     </Product>
   </Add>
   <Display Level="Full" AcceptEULA="TRUE" />
