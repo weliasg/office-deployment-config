@@ -2,7 +2,7 @@
 
 This repository contains a `configuration.xml` file used with the Office Deployment Tool (ODT) to perform a customized installation of Microsoft Office.
 
-The configuration file is designed to install only Word, Excel, and PowerPoint, excluding other apps to optimize disk space and system performance. It installs the 64-bit version, uses the Monthly Enterprise update channel, and the Product ID `O365ProPlusRetail` for proper licensing.
+The configuration file is designed to install especific apps, excluding other to optimize disk space and system performance. It installs the 64-bit version, uses the Monthly Enterprise update channel, and the Product ID `O365ProPlusRetail` for proper licensing.
 
 ---
 
